@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Zadacha_4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string Fn = Console.ReadLine();
+            string Ln = Console.ReadLine();
+            string G = Console.ReadLine();
+            string Cy = Console.ReadLine();
+            Console.Write(Fn + " " + Ln + " na " + G + " ot " + Cy );
+            Console.ReadLine();
+        }
+    }
+}
