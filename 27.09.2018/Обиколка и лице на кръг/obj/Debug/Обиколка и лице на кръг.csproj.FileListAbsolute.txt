@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\Codes\Homework\27.09.2018\Обиколка и лице на кръг\bin\Debug\Обиколка и лице на кръг.exe.config
-C:\Users\Administrator\Desktop\Codes\Homework\27.09.2018\Обиколка и лице на кръг\bin\Debug\Обиколка и лице на кръг.exe
-C:\Users\Administrator\Desktop\Codes\Homework\27.09.2018\Обиколка и лице на кръг\bin\Debug\Обиколка и лице на кръг.pdb
-C:\Users\Administrator\Desktop\Codes\Homework\27.09.2018\Обиколка и лице на кръг\obj\Debug\Обиколка и лице на кръг.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\Codes\Homework\27.09.2018\Обиколка и лице на кръг\obj\Debug\Обиколка и лице на кръг.exe
-C:\Users\Administrator\Desktop\Codes\Homework\27.09.2018\Обиколка и лице на кръг\obj\Debug\Обиколка и лице на кръг.pdb
